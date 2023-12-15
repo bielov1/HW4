@@ -1,0 +1,4 @@
+/home/oda/Programming/oda/probe/Lab4-probe/calculator/build/CMakeFiles/calculator.dir
+/home/oda/Programming/oda/probe/Lab4-probe/calculator/build/CMakeFiles/main.dir
+/home/oda/Programming/oda/probe/Lab4-probe/calculator/build/CMakeFiles/edit_cache.dir
+/home/oda/Programming/oda/probe/Lab4-probe/calculator/build/CMakeFiles/rebuild_cache.dir
